@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejidnergahir19&label=Profile%20views&color=0e75b6&style=flat" alt="tejidnergahir19" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejidnergahir19" alt="tejidnergahir19" /></a> </p>
-
 - 🔭 I’m currently working on **Chat Appliaction in React and React Native for web and mobile devices**
 
 - 🌱 I’m currently learning **ReactJS, React Native**
