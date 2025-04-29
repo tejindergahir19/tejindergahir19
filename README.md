@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Php, Mysql, Html, CSS, Javascript**
 
-- 📫 How to reach me **tejinderpctebtech19cse@gmail.com**
+- 📫 How to reach me **tejindergahir19+gitcontact@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
